@@ -1,0 +1,38 @@
+	
+.centered-form{
+  margin-top: 60px;
+}
+
+.centered-form .panel{
+  background: rgba(255, 255, 255, 0.8);
+  box-shadow: rgba(0, 0, 0, 0.3) 20px 20px 20px;
+} 
+select{
+	height: 30px;
+}	
+.panel-title{
+	text-align: center;
+}
+
+.maincontainer{
+	width: 1024px;
+	margin:0 auto;
+}
+.gender{
+	margin-top: 25px;
+}
+.searchform{
+	float: right;
+	margin: 15px;
+}
+img{
+	height: 45px;
+}
+img#myid{
+	height: 32px;
+	margin-top: -31px;	
+	float: right;
+}
+.input-sm{
+	height: 50px;
+}
